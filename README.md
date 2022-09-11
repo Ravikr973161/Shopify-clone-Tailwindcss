@@ -18,7 +18,7 @@ This framework helped me to build production ready code quikly for both desktop 
 
 ### Here's the Live Deployed Website:
 
-[Live Link !](https://statuesque-tulumba-321c17.netlify.app)
+[Live Link !](https://snazzy-dodol-f04582.netlify.app/)
 
 ![Web Site Image](./screencapture-127-0-0-1-5500-index-html-2022.png)
 
