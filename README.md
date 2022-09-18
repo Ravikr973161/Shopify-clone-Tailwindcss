@@ -8,7 +8,7 @@ This framework helped me to build production ready code quikly for both desktop 
 
 </br>
 
-## Tech Stack Used :
+## Tech Stack Used:
 
 ![Tailwind CSS](https://img.shields.io/badge/-TAILWINDCSS-green) ![HTML5](https://img.shields.io/badge/-HTML5-green) 
 
